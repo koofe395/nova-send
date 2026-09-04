@@ -1,0 +1,6 @@
+{
+  "name": "NOVA-SEND",
+  "description": "Secure, fast, modern device-to-device sharing platform for files, media, and messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

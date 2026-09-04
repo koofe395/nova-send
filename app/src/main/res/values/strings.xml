@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOVA-SEND</string>
+    <string name="shortcut_send_short">Send Files</string>
+    <string name="shortcut_send_long">Quick File Picker &amp; Send</string>
+    <string name="shortcut_qr_short">Scan QR</string>
+    <string name="shortcut_qr_long">Scan Device QR Code</string>
+</resources>
